@@ -8,4 +8,4 @@ Este projeto consiste em um relógio digital simples desenvolvido usando HTML, C
 
 ## Páginas
 
-Você pode vizualizar o relógio no seguinte link: [clock](https://igorguedes018.github.io/clock/)
+Você pode vizualizar o relógio no seguinte link: [clock](https://igorguedes018.github.io/Clock/)
